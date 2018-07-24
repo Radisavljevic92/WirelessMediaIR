@@ -29,8 +29,7 @@
         if (result.data.success == true) {
             $scope.kategorija = result.data.data;
         } else {
-            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o kategorijama.", "OK");
-            $scope.kategorija = [];
+            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o kategorijama.", "OK");         
         }
     });
 
