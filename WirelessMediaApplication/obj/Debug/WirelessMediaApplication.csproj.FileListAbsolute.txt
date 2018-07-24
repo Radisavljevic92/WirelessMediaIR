@@ -88,3 +88,4 @@ C:\Users\i.radisavljevic\Desktop\Wireless\WirelessMediaApplication\WirelessMedia
 C:\Users\i.radisavljevic\Desktop\Wireless\WirelessMediaApplication\WirelessMediaApplication\obj\Debug\WirelessMediaApplication.dll
 C:\Users\i.radisavljevic\Desktop\Wireless\WirelessMediaApplication\WirelessMediaApplication\obj\Debug\WirelessMediaApplication.pdb
 C:\Users\i.radisavljevic\Desktop\Wireless\WirelessMediaApplication\WirelessMediaApplication\obj\Debug\WirelessMediaApplication.csprojResolveAssemblyReference.cache
+C:\Users\i.radisavljevic\Desktop\Wireless\WirelessMediaApplication\WirelessMediaApplication\bin\CloudrailSI.dll

@@ -20,7 +20,7 @@
         if (result.data.success == true) {
             $scope.dobavljac = result.data.data;
         } else {
-            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o proizvođačima.", "OK");
+            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o dobavljačima.", "OK");
         }
     });
 
@@ -29,7 +29,7 @@
         if (result.data.success == true) {
             $scope.kategorija = result.data.data;
         } else {
-            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o dobavljačima.", "OK");
+            $scope.alertDialog("bodyWrap", "Obaveštenje", "Došlo je do greške prilikom prikupljanja podataka o kategorijama.", "OK");
             $scope.kategorija = [];
         }
     });

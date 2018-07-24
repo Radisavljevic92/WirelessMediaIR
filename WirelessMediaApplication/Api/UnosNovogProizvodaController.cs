@@ -26,7 +26,7 @@ namespace WirelessMediaApplication.Api
             }
             catch (Exception e)
             {
-                return Json(new { success = false, message = "Došlo je do greške prilikom učitavanja banki za uplatnicu." });
+                return Json(new { success = false, message = "Došlo je do greške prilikom učitavanja proizvođača." });
             }
         }
         [HttpPost]
